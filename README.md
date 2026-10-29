@@ -1,7 +1,7 @@
 # Hidden Quantum-Level Agency as a Possible Foundation of Biological Self-Organization
 
 **Author:** [sesasa](https://github.com/sesasa)
-**First stated:** 29 October 2026 (developed in a conversation with ChatGPT)
+**First stated:** 29 October 2026 (developed in a conversation with ChatGPT 6)
 **Status:** speculative hypothesis. This is not a claim of proof.
 
 ## Hypothesis
@@ -48,6 +48,7 @@ Similar ideas may already exist in philosophy or theoretical biology. This note 
 ## Contributors
 
 - [sesasa](https://github.com/sesasa): originated the hypothesis and the civilization analogy
+- ChatGPT 6 (OpenAI): helped develop the hypothesis through discussion, including the objections and possible tests
 
 ## Cite
 
