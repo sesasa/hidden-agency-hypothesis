@@ -45,6 +45,10 @@ Finding internal simulation alone would not prove that separate agents exist. It
 
 Similar ideas may already exist in philosophy or theoretical biology. This note records this line of reasoning and its date; it does not claim to be the first.
 
+## Contributors
+
+- [sesasa](https://github.com/sesasa): originated the hypothesis and the civilization analogy
+
 ## Cite
 
 > sesasa (2026). *Hidden Quantum-Level Agency as a Possible Foundation of Biological Self-Organization.* https://github.com/sesasa/hidden-agency-hypothesis
