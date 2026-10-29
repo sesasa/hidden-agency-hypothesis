@@ -22,6 +22,21 @@ Looking into the body, we may be in the same position. We see the feedback and t
 - **Representation:** their models could be encoded in quantum correlations or molecular states that we can't decode. By analogy, watching a chip's transistors switch doesn't tell you it is simulating airflow.
 - **Timescale:** their reasoning may run on timescales very different from ours.
 
+## A precedent: what classical physics would have missed
+
+Imagine we didn't know about quantum mechanics. Each of these phenomena would have a reasonable classical explanation, and each would eventually puzzle us:
+
+| Phenomenon | Classical expectation | What quantum theory adds | Status |
+|---|---|---|---|
+| Bird magnetic compass | Magnetic particles act like compass needles | Light-triggered electron spin pairs make chemical reaction yields depend on the magnetic field | Supported, but not yet proven in living birds |
+| Enzyme hydrogen transfer | Atoms cross an energy barrier once they have enough thermal energy | Hydrogen can tunnel through the barrier | Established in some enzymes; whether it gives enzymes a special advantage is debated |
+| Photosynthetic energy transfer | Energy hops randomly from pigment to pigment | Excitations can spread across several molecules and interfere | Seen in some systems; whether efficiency depends on it is debated |
+
+This has two lessons for the hypothesis:
+
+1. **A model can predict a system's behavior without describing every level beneath it.** Classical models would have been useful in practice and still missed the quantum level. This hypothesis asks whether biology has another level we haven't recognized: information processing and agency. Quantum mechanics won acceptance by making distinctive predictions that classical physics couldn't. This hypothesis needs to do the same.
+2. **The known quantum effects in biology carry out functions; they don't reason.** Even the bird compass only produces a signal, which the nervous system then has to interpret, and how that conversion happens is still unknown. The open question is whether any biological system stores and transforms quantum information, rather than just sensing or passing it on, and uses it to choose between future actions. That would be a step toward the agency proposed here.
+
 ## Open problems
 
 - Cells are warm and wet, which makes it hard to sustain quantum coherence. Any agent would need stable memory, energy and structure.
