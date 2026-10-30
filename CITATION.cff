@@ -1,13 +1,17 @@
 cff-version: 1.2.0
-message: "If you refer to this hypothesis, please cite it as below."
-title: "Hidden Quantum-Level Agency as a Possible Foundation of Biological Self-Organization"
+message: "If you refer to these hypotheses, please cite them as below."
+title: "Hidden Agency and the Recursive Scaling of Intelligence"
 authors:
   - alias: sesasa
 date-released: 2026-10-29
-url: "https://github.com/sesasa/hidden-agency-hypothesis"
-repository-code: "https://github.com/sesasa/hidden-agency-hypothesis"
+url: "https://github.com/sesasa/hidden-agency-recursive-scaling"
+repository-code: "https://github.com/sesasa/hidden-agency-recursive-scaling"
 keywords:
   - hypothesis
   - biological self-organization
   - collective intelligence
   - quantum biology
+  - consciousness
+  - evolution
+  - civilization
+  - artificial intelligence
