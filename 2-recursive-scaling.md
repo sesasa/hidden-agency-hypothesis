@@ -37,19 +37,21 @@ Such a brain would maintain and monitor civilization's internal processes and so
 
 The pattern repeats at each level: **agents build systems → what works becomes automatic → the system hits a limit → a new self-model (consciousness) lets it scale further.** On this view, consciousness is not the destination of intelligence but a tool it develops when it reaches the limits of its current scale.
 
-## Refinements and open problems
+## Open questions
 
-- **DNA came early.** DNA-based inheritance is far older than brains, and DNA isn't a complete blueprint: development also depends on the cell and its environment. It's more accurate to say evolution keeps extending automated, heritable programs. Before those existed, how did the agents keep their knowledge and reproduce?
-- **Consciousness was probably gradual.** There's no evidence that it arose because brains ran out of room. Some primates show metacognition and some birds make tools, so self-modeling probably deepened step by step.
-- **Where are the agents?** They need a physical substrate for memory and computation. No quantum model of consciousness yet manages to be physically feasible, explanatory and testable all at once.
-- **A shared goal needs a mechanism.** Evolution has no built-in drive toward complexity and often simplifies. How would a common goal be stored and passed on?
-- **A deeper connection needs a channel.** Entanglement alone can't carry messages between organisms. Any connection would need a physical channel, or would mean a shared kind of agent rather than a direct link.
-- **Many minds don't automatically make one.** Billions of people form a single intelligence only if they have coherent processing, shared memory, coordination and a way to settle conflicting goals.
+- **Before DNA:** before heritable programs like DNA existed, how did the agents keep their knowledge and reproduce?
+- **One step or many:** did consciousness appear in one step when brains reached their limit, or deepen gradually? Some primates show signs of metacognition and some birds make tools.
+- **Substrate:** what physical structures hold the agents' memory and computation?
+- **Shared goal:** how is the overall goal stored and passed on across agents and generations?
+- **Connection:** what links agents in different organisms: a physical channel, or being the same kind of agent? Entanglement alone can't carry messages.
+- **Civilization as one mind:** what would let billions of people and their systems act as a single intelligence? It would likely need shared memory, coordination and a way to settle conflicting goals.
 
-## Two separable claims
+## How it could be studied
 
-- **A. Hidden biological agency** (Hypothesis 1). Unsupported so far, and it needs a new physical mechanism.
-- **B. Recursive emergence.** Interacting agents build integrated systems that can develop their own self-models, autonomy and perhaps consciousness. This can be studied without assuming A, through multi-agent and artificial-life simulations, evolutionary theory and today's increasingly integrated AI systems.
+The hypothesis has two parts that can be tested separately:
+
+- **Hidden agency:** look for the agents' physical mechanism, as described in [Hypothesis 1](1-hidden-agency.md#how-it-could-be-tested).
+- **Recursive scaling:** test whether interacting agents can build integrated systems that develop their own self-models, autonomy and perhaps consciousness. This part doesn't depend on hidden agency and can be explored through multi-agent and artificial-life simulations, evolutionary theory and today's increasingly integrated AI systems.
 
 ## Related work
 

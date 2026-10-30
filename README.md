@@ -20,7 +20,7 @@ Parts of these ideas may already exist in philosophy, biology or astrobiology. T
 ## Contributors
 
 - [sesasa](https://github.com/sesasa): originated both hypotheses, the civilization analogy and the idea of consciousness as a scaling step
-- ChatGPT 6 (OpenAI): helped develop both hypotheses through discussion, including the objections, refinements and possible tests
+- ChatGPT 6 (OpenAI): helped develop both hypotheses through discussion, including the open questions and possible tests
 
 ## Cite
 
